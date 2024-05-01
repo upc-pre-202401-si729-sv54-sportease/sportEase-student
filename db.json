@@ -1,0 +1,88 @@
+{
+   "student": [
+      {
+         "id": 1,
+         "name": "Lucas",
+         "lastName": "Stev",
+         "email": "student",
+         "password": "student",
+         "category": 2004,
+         "type": "student",
+         "paymentDates": [
+            {
+               "id": 1,
+               "publication": "2024-12-03",
+               "expiration": "2024-12-12"
+            },
+            {
+               "id": 2,
+               "publication": "2024-02-11",
+               "expiration": "2024-02-13"
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "name": "Luis",
+         "lastName": "Aguirre",
+         "email": "student1",
+         "password": "student1",
+         "category": 2005,
+         "type": "student",
+         "paymentDates": [
+            {
+               "id": 1,
+               "publication": "2024-07-06",
+               "expiration": "2024-07-19"
+            },
+            {
+               "id": 2,
+               "publication": "2024-05-05",
+               "expiration": "2024-05-20"
+            }
+         ]
+      },
+      {
+         "id": 3,
+         "name": "Carola",
+         "lastName": "Quispe",
+         "email": "student2",
+         "password": "student2",
+         "category": 2004,
+         "type": "student",
+         "paymentDates": [
+            {
+               "id": 1,
+               "publication": "2024-03-06",
+               "expiration": "2024-03-11"
+            },
+            {
+               "id": 2,
+               "publication": "2024-04-09",
+               "expiration": "2024-04-23"
+            }
+         ]
+      },
+      {
+         "id": 4,
+         "name": "Adrian",
+         "lastName": "Medina",
+         "email": "student3",
+         "password": "student3",
+         "category": 2005,
+         "type": "student",
+         "paymentDates": [
+            {
+               "id": 1,
+               "publication": "2024-10-10",
+               "expiration": "2024-10-15"
+            },
+            {
+               "id": 2,
+               "publication": "2024-12-01",
+               "expiration": "2024-12-17"
+            }
+         ]
+      }
+   ]
+}
